@@ -9,7 +9,7 @@
     "npm": "9.7.2"
   },
   "scripts": {
-    "start": "node index.js",
+    "start": "node ./index.js",
     "dev": "nodemon run ./index.js"
   },
   "keywords": [],
